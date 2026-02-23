@@ -1,11 +1,13 @@
 # Photograph Portfolio 📷
 
-A curated, elegant photography portfolio page designed to showcase stunning imagery and capture moments through a minimalist lens.
+A curated, elegant photography portfolio dedicated to **Ram Rahman**, one of India's most prominent contemporary photographers, curators, and activists based in Delhi. 
+
+This website serves to document his background—ranging from his degrees at MIT and Yale, to his extensive work fighting communal forces with SAHMAT, and his deep photographic focus on architectural modernism and vibrant Indian street life.
 
 ## 🌟 Features
 - **Responsive Layout:** Optimized to look beautiful on mobile, tablet, and desktop devices.
 - **Minimalist Design:** Image-focused UI that avoids distraction and highlights the photography.
-- **Gallery Presentation:** Grid-based image display with clean visual aesthetics suitable for portfolios.
+- **Gallery Presentation:** Grid-based image display with clean visual aesthetics showcasing select works like street signage, urban street life, and cultural heritage documentation.
 
 ## 🛠️ Built With
 - **HTML5:** Semantic markup structure for accessibility and SEO.
