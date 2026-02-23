@@ -1,8 +1,22 @@
-# Photograph
+# Photograph Portfolio 📷
 
-A curated photography portfolio page showcasing stunning imagery and capturing moments through a lens.
+A curated, elegant photography portfolio page designed to showcase stunning imagery and capture moments through a minimalist lens.
 
-## Features
-- Minimalist, image-focused design
-- Grid-based gallery layouts
-- Responsive viewing experience
+## 🌟 Features
+- **Responsive Layout:** Optimized to look beautiful on mobile, tablet, and desktop devices.
+- **Minimalist Design:** Image-focused UI that avoids distraction and highlights the photography.
+- **Gallery Presentation:** Grid-based image display with clean visual aesthetics.
+
+## 🛠️ Built With
+- **HTML5:** Semantic markup structure for accessibility and SEO.
+- **CSS3:** Custom styling to manage layout perfectly.
+
+## 🚀 Getting Started
+To view this project locally, simply clone the repository and open the HTML file in your preferred browser.
+
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/paarshviv12/photograph.git
+   ```
+2. Open `photograph.html` in your web browser.
