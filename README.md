@@ -1,5 +1,9 @@
 # Photograph Portfolio 📷
 
+<div align="center">
+  <img src="https://media.tenor.com/jaX_i8ry6AQAAAAi/enterprise-confused.gif" height="200" />
+</div>
+
 A curated, elegant photography portfolio dedicated to **Ram Rahman**, one of India's most prominent contemporary photographers, curators, and activists based in Delhi. 
 
 This website serves to document his background—ranging from his degrees at MIT and Yale, to his extensive work fighting communal forces with SAHMAT, and his deep photographic focus on architectural modernism and vibrant Indian street life.
